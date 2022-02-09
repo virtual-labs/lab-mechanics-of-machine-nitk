@@ -27,15 +27,15 @@
     },
     {
       "name": "Acceleration analysis of Grashof four bar mechanism",
-      "short-name": "",
-      "repo": "",
+      "short-name": "acceleration-analysis-grashof",
+      "repo": "https://github.com/virtual-labs/exp-acceleration-analysis-grashof-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
       "name": "Position analysis of NonGrashof four bar mechanism",
-      "short-name": "",
-      "repo": "",
+      "short-name": "position-analysis-nongrashof",
+      "repo": "https://github.com/virtual-labs/exp-position-analysis-nongrashof-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
@@ -188,5 +188,5 @@
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
         "universities": ["Visvesvaraya Technological University", "Kerala Technological University","Anna University","Goa University","Cochin University of Science and Technology (CUSAT)","Dr. A.P.J. Abdul Kalam Technical University, Lucknow]"
-    }
+    },
 }
