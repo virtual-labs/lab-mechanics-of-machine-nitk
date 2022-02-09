@@ -1,16 +1,16 @@
 {
-    "broadArea": {
-        "name": "Mechanical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
-    },
-    "lab": "Mechanics of Machine",
-    "lab_display_name": "Mechanics of Machine",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "NITS",
-    "baseUrl": "mm-nitk.vlabs.ac.in",
-    "introduction": "Mechanics of Machines: is defined as the branch of science, which deals with the study of relative motion between the various parts of a machine, and forces which act on them.</br></br>Mechanics of Machines can be subdivided into two branches they are Statics and Dynamics. This lab covers the basic concept of courses on Grashof four bar mechanism, Slider crank mechanism, Scotch Yoke Mechanism, Elliptical Trammel, Tchebichev Straight Line Mechanism, Peaucellier Straight Line Mechanism.",
-    "experiments": [
+  "broadArea": {
+    "name": "Mechanical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+  },
+  "lab": "Mechanics of Machine",
+  "lab_display_name": "Mechanics of Machine",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "NITS",
+  "baseUrl": "mm-nitk.vlabs.ac.in",
+  "introduction": "Mechanics of Machines: is defined as the branch of science, which deals with the study of relative motion between the various parts of a machine, and forces which act on them.</br></br>Mechanics of Machines can be subdivided into two branches they are Statics and Dynamics. This lab covers the basic concept of courses on Grashof four bar mechanism, Slider crank mechanism, Scotch Yoke Mechanism, Elliptical Trammel, Tchebichev Straight Line Mechanism, Peaucellier Straight Line Mechanism.",
+  "experiments": [
     {
       "name": "Position analysis of Grashof four bar mechanism",
       "short-name": "position-analysis-grashof",
@@ -84,7 +84,7 @@
     {
       "name": "Position analysis of Scotch Yoke Mechanism",
       "short-name": "position-analysis-scotch-yoke",
-      "repo": "https://github.com/virtual-labs/exp-position-analysis-scotch-yoke-nitk-",
+      "repo": "https://github.com/virtual-labs/exp-position-analysis-scotch-yoke-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
@@ -179,14 +179,27 @@
       "tag": "v0.0.0",
       "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "B.E/B.Tech in Mechanical Engineering, Automobile Engineering, Mechatronics Engineering, Production Engineering, Power Engineering and Aeronautical Engineering.",
+      "Diploma in Mechanical Engineering"
     ],
-    "targetAudience": {
-        "UG": ["B.E/B.Tech in Mechanical Engineering, Automobile Engineering, Mechatronics Engineering, Production Engineering, Power Engineering and Aeronautical Engineering.","Diploma in Mechanical Engineering"],
-        "PG": ["M.Tech/MS in Design Engineering and Manufacturing Engineering."]
-    },
-    "objective": "Lab deals simulations experiments on the mechanics of machines components. These experiments aims at enhancing the knowledge of students on the different mechanisms, to build mathematical models and develop position, velocity and acceleration relations. After completing every simulation experiment in the mechanics of machines lab the students can able to understand basic concepts on different mechanisms.",
-    "courseAlignment": {
-        "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": ["Visvesvaraya Technological University", "Kerala Technological University","Anna University","Goa University","Cochin University of Science and Technology (CUSAT)","Dr. A.P.J. Abdul Kalam Technical University, Lucknow]
-    }
+    "PG": ["M.Tech/MS in Design Engineering and Manufacturing Engineering."]
+  },
+  "objective": "Lab deals simulations experiments on the mechanics of machines components. These experiments aims at enhancing the knowledge of students on the different mechanisms, to build mathematical models and develop position, velocity and acceleration relations. After completing every simulation experiment in the mechanics of machines lab the students can able to understand basic concepts on different mechanisms.",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "Visvesvaraya Technological University",
+      "Kerala Technological University",
+      "Anna University",
+      "Goa University",
+      "Cochin University of Science and Technology (CUSAT)",
+      "Dr. A.P.J. Abdul Kalam Technical University, Lucknow"
+    ]
+  },
+  "exp_name": "Universal Joint",
+  "exp_short_name": "universal-joint",
+  "version": "v0.1.0"
 }
