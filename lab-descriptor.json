@@ -187,6 +187,6 @@
     "objective": "Lab deals simulations experiments on the mechanics of machines components. These experiments aims at enhancing the knowledge of students on the different mechanisms, to build mathematical models and develop position, velocity and acceleration relations. After completing every simulation experiment in the mechanics of machines lab the students can able to understand basic concepts on different mechanisms.",
     "courseAlignment": {
         "description": "The syllabi of this lab aligns to the following universities in India.",
-        "universities": ["Visvesvaraya Technological University", "Kerala Technological University","Anna University","Goa University","Cochin University of Science and Technology (CUSAT)","Dr. A.P.J. Abdul Kalam Technical University, Lucknow]"
-    },
+        "universities": ["Visvesvaraya Technological University", "Kerala Technological University","Anna University","Goa University","Cochin University of Science and Technology (CUSAT)","Dr. A.P.J. Abdul Kalam Technical University, Lucknow]
+    }
 }
