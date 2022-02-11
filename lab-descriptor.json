@@ -169,14 +169,14 @@
       "name": "Crank and Slotted Mechanism",
       "short-name": "crank-slotted-mechanism",
       "repo": "https://github.com/virtual-labs/exp-crank-slotted-mechanism-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
       "name": "Universal Joint",
       "short-name": "universal-joint",
       "repo": "https://github.com/virtual-labs/exp-universal-joint-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     }
   ],
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }
