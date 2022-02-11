@@ -20,8 +20,8 @@
     },
     {
       "name": "Velocity analysis of Grashof four bar mechanism",
-      "short-name": "velocity-analysis-nongrashof",
-      "repo": "https://github.com/virtual-labs/exp-velocity-analysis-nongrashof-nitk",
+      "short-name": "velocity-analysis-grashof",
+      "repo": "https://github.com/virtual-labs/exp-velocity-analysis-grashof-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
@@ -41,8 +41,8 @@
     },
     {
       "name": "Velocity analysis of NonGrashof four bar mechanism",
-      "short-name": "acceleration-analysis-nongrashof",
-      "repo": "https://github.com/virtual-labs/exp-acceleration-analysis-nongrashof-nitk",
+      "short-name": "velocity-analysis-nongrashof",
+      "repo": "https://github.com/virtual-labs/exp-velocity-analysis-nongrashof-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
@@ -69,15 +69,15 @@
     },
     {
       "name": "Acceleration analysis of Slider crank mechanism",
-      "short-name": "acceleration-analysis-nongrashof",
-      "repo": "https://github.com/virtual-labs/exp-acceleration-analysis-nongrashof-nitk",
+      "short-name": "acceleration-analysis-slider-crank",
+      "repo": "https://github.com/virtual-labs/exp-acceleration-analysis-slider-crank-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
     {
       "name": "Position analysis of Slider crank mechanism with Offset",
-      "short-name": "position-analysis-slider-crank",
-      "repo": "https://github.com/virtual-labs/exp-position-analysis-slider-crank-nitk",
+      "short-name": "position-analysis-slider-crank-offset",
+      "repo": "https://github.com/virtual-labs/exp-position-analysis-slider-crank-offset-nitk",
       "tag": "v0.0.0",
       "deploy": true
     },
