@@ -127,7 +127,7 @@
       "name": "Elliptical Cam Mechanism",
       "short-name": "elliptical-cam-mechanism",
       "repo": "https://github.com/virtual-labs/exp-elliptical-cam-mechanism-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
@@ -141,14 +141,14 @@
       "name": "Klann Mechanism",
       "short-name": "klann-mechanism",
       "repo": "https://github.com/virtual-labs/exp-klann-mechanism-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
       "name": "Jansen Linkage Model",
       "short-name": "jansen-linkage-model",
       "repo": "https://github.com/virtual-labs/exp-jansen-linkage-model-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.5.0"
+  "version": "v0.6.0"
 }
