@@ -155,7 +155,7 @@
       "name": "Chebyshev's Straight Line Mechanism",
       "short-name": "tchebichev-straight-line",
       "repo": "https://github.com/virtual-labs/exp-tchebichev-straight-line-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.7.0"
+  "version": "v0.8.0"
 }
