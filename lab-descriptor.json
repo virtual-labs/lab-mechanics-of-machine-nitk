@@ -127,14 +127,14 @@
       "name": "Elliptical Cam Mechanism",
       "short-name": "elliptical-cam-mechanism",
       "repo": "https://github.com/virtual-labs/exp-elliptical-cam-mechanism-nitk",
-      "tag": "v0.0.3",
+      "tag": "v0.0.4",
       "deploy": true
     },
     {
       "name": "Eccentric Cam Mechanism",
       "short-name": "eccentric-cam-mechanism",
       "repo": "https://github.com/virtual-labs/exp-eccentric-cam-mechanism-nitk",
-      "tag": "v0.0.2",
+      "tag": "v0.0.3",
       "deploy": true
     },
     {
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.10.0"
+  "version": "v0.11.0"
 }
