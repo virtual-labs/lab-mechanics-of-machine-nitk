@@ -134,7 +134,7 @@
       "name": "Eccentric Cam Mechanism",
       "short-name": "eccentric-cam-mechanism",
       "repo": "https://github.com/virtual-labs/exp-eccentric-cam-mechanism-nitk",
-      "tag": "v0.0.0",
+      "tag": "v0.0.1",
       "deploy": true
     },
     {
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.8.0"
+  "version": "v0.9.0"
 }
