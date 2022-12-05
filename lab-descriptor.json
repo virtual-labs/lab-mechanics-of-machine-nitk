@@ -7,7 +7,7 @@
   "lab_display_name": "Mechanics of Machine",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "NITS",
+  "collegeName": "NITK",
   "baseUrl": "mm-nitk.vlabs.ac.in",
   "introduction": "Mechanics of Machines: is defined as the branch of science, which deals with the study of relative motion between the various parts of a machine, and forces which act on them.</br></br>Mechanics of Machines can be subdivided into two branches they are Statics and Dynamics. This lab covers the basic concept of courses on Grashof four bar mechanism, Slider crank mechanism, Scotch Yoke Mechanism, Elliptical Trammel, Tchebichev Straight Line Mechanism, Peaucellier Straight Line Mechanism.",
   "experiments": [
@@ -156,7 +156,7 @@
       "short-name": "tchebichev-straight-line",
       "repo": "https://github.com/virtual-labs/exp-tchebichev-straight-line-nitk",
       "tag": "v0.0.1",
-      "deploy": true
+      "deploy": false
     },
     {
       "name": "Whitworth Mechanism",
@@ -201,5 +201,5 @@
   },
   "exp_name": "Universal Joint",
   "exp_short_name": "universal-joint",
-  "version": "v0.11.0"
+  "version": "v0.12.0"
 }
