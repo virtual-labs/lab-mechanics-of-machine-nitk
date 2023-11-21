@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
   },
   "lab": "Mechanics of Machine",
-  "lab_display_name": "Mechanics of Machine",
+  "lab_display_name": "Mechanics of Machine I",
   "deployLab": true,
   "phase": 2,
   "collegeName": "NITK",
@@ -109,76 +109,6 @@
       "tag": "v0.0.0",
       "deploy": true
     },
-    {
-      "name": "Hart Straight Line Mechanism",
-      "short-name": "hart-straight-line",
-      "repo": "https://github.com/virtual-labs/exp-hart-straight-line-nitk",
-      "tag": "v0.0.0",
-      "deploy": true
-    },
-    {
-      "name": "Peaucellier Straight Line Mechanism",
-      "short-name": "peaucellier-straight-line",
-      "repo": "https://github.com/virtual-labs/exp-peaucellier-straight-line-nitk",
-      "tag": "v0.0.0",
-      "deploy": true
-    },
-    {
-      "name": "Elliptical Cam Mechanism",
-      "short-name": "elliptical-cam-mechanism",
-      "repo": "https://github.com/virtual-labs/exp-elliptical-cam-mechanism-nitk",
-      "tag": "v0.0.4",
-      "deploy": true
-    },
-    {
-      "name": "Eccentric Cam Mechanism",
-      "short-name": "eccentric-cam-mechanism",
-      "repo": "https://github.com/virtual-labs/exp-eccentric-cam-mechanism-nitk",
-      "tag": "v0.0.3",
-      "deploy": true
-    },
-    {
-      "name": "Klann Mechanism",
-      "short-name": "klann-mechanism",
-      "repo": "https://github.com/virtual-labs/exp-klann-mechanism-nitk",
-      "tag": "v0.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Jansen Linkage Model",
-      "short-name": "jansen-linkage-model",
-      "repo": "https://github.com/virtual-labs/exp-jansen-linkage-model-nitk",
-      "tag": "v0.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Chebyshev's Straight Line Mechanism",
-      "short-name": "tchebichev-straight-line",
-      "repo": "https://github.com/virtual-labs/exp-tchebichev-straight-line-nitk",
-      "tag": "v0.0.1",
-      "deploy": false
-    },
-    {
-      "name": "Whitworth Mechanism",
-      "short-name": "whitworth-mechanism",
-      "repo": "https://github.com/virtual-labs/exp-whitworth-mechanism-nitk",
-      "tag": "v0.0.0",
-      "deploy": true
-    },
-    {
-      "name": "Crank and Slotted Mechanism",
-      "short-name": "crank-slotted-mechanism",
-      "repo": "https://github.com/virtual-labs/exp-crank-slotted-mechanism-nitk",
-      "tag": "v0.0.1",
-      "deploy": true
-    },
-    {
-      "name": "Universal Joint",
-      "short-name": "universal-joint",
-      "repo": "https://github.com/virtual-labs/exp-universal-joint-nitk",
-      "tag": "v0.0.1",
-      "deploy": true
-    }
   ],
   "targetAudience": {
     "UG": [
