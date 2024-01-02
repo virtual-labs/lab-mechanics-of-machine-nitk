@@ -108,7 +108,7 @@
       "repo": "https://github.com/virtual-labs/exp-position-analysis-elliptical-trammel-nitk",
       "tag": "v0.0.0",
       "deploy": true
-    },
+    }
   ],
   "targetAudience": {
     "UG": [
