@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+     "code": "MECH"
   },
   "lab": "Mechanics of Machine",
   "lab_display_name": "Mechanics of Machine I",
