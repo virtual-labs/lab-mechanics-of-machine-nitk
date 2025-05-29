@@ -16,14 +16,14 @@
       "name": "Position analysis of Grashof four bar mechanism",
       "short-name": "position-analysis-grashof",
       "repo": "https://github.com/virtual-labs/exp-position-analysis-grashof-nitk",
-      "tag": "v0.0.5",
+      "tag": "v0.0.6",
       "deploy": true
     },
     {
       "name": "Velocity analysis of Grashof four bar mechanism",
       "short-name": "velocity-analysis-grashof",
       "repo": "https://github.com/virtual-labs/exp-velocity-analysis-grashof-nitk",
-      "tag": "v0.0.5",
+      "tag": "v0.0.6",
       "deploy": true
     },
     {
